@@ -4,7 +4,7 @@ EDA Capstone Project
 ## 📋 Introduction
 Play Store is a platform from where a user can download apps and rate those apps. In this project I look into the play store app data and the review data and did the analisys to find the improtant features that could help in customer engagement in app
 
-📋 This Project approach will be :
+ This Project approach will be :
 * Loading Libraries and Dataset
 * Data Exploration
 * Data Cleaning
