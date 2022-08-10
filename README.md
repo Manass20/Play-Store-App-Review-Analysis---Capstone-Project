@@ -1,5 +1,6 @@
 # 📋 Play-Store-App-Review-Analysis---Capstone-Project
 EDA Capstone Project
+![google-play-suppression-applis](https://user-images.githubusercontent.com/103633582/183971679-4423706d-2ddd-4630-9f63-ba7e3517a347.jpg)
 
 ## 📋 Introduction
 Play Store is a platform from where a user can download apps and rate those apps. In this project I look into the play store app data and the review data and did the analisys to find the improtant features that could help in customer engagement in app
